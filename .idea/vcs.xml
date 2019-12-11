@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ant_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/comment_manage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ggzhiping_learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router_use" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user_search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user_search - copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user_search_copy/pubsub_user_search" vcs="Git" />
+  </component>
+</project>

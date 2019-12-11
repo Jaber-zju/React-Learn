@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a10c2feb-daab-4697-8f5f-8909e4000625" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/jest/cssTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/jest/fileTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/pnpTs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ant_demo/scripts/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/comment-add/comment-add.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/comment-add/commentAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/commentItem/comment-item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/commentItem/commentItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/commentItem/commentItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/commontList/comment-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/commontList/commentList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/components/commontList/commentList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/components/comment-add/commentAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/components/commentItem/commentItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/components/commentItem/commentItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/components/commontList/commentList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/components/commontList/commentList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src2.0_comment/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/components/comment-add/commentAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/components/commentItem/commentItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/components/commentItem/commentItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/components/commontList/commentList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/components/commontList/commentList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/src_todoList/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_manage/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/api/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/assets/images/头像9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/header-selecter/header-selecter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/dashen-selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/dashen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/laoban-selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/laoban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/message-selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/personal-selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/images/personal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/nav-footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/notfound/notfound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/components/user-list/user-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/chat/chat.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/dashen-info/dashen-info.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/dashen/dashen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/laoban-info/laoban-info.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/laoban/laoban.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/login/login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/main/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/message/message-1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/message/message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/personal/personal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/containers/register/register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ggzhiping_learn/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux_demo/src/containers/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux_demo/src/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux_demo/src/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux_demo/src/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux_demo/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/router_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/first_router/MyNavLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/first_router/about.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/first_router/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/second_router/messages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/second_router/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src/thirdroute/messagedetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/first_router/MyNavLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/first_router/about.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/first_router/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/second_router/message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/second_router/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router_use/src_previous/thirdroute/messageDetail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_old/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_old/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_old/user_search_components/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_old/user_search_components/search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/user_search_components/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_props/user_search_components/search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/user_search_components/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_search/src_pubsubjs/user_search_components/search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ant_demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ant_demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ant_demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ant_demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ant_demo/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ant_demo/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment_manage/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/comment_manage/src1.0_comment/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggzhiping_learn/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ggzhiping_learn/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggzhiping_learn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ggzhiping_learn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggzhiping_learn/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ggzhiping_learn/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggzhiping_learn/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ggzhiping_learn/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggzhiping_learn/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ggzhiping_learn/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggzhiping_learn/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ggzhiping_learn/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/redux_demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/redux_demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/redux_demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redux_demo/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/redux_demo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redux_demo/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router_use/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/router_use/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/src_old/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/src_old/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/src_old/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/src_old/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/src_old/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_search/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/user_search/src_old/serviceWorker.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="reactlearn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/components/app.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>injectBabelPlugin</find>
+      <find>unshift</find>
+      <find>plugin</find>
+      <find>oldUser</find>
+      <find>withRoute</find>
+      <find>initIO</find>
+      <find>redirectTo</find>
+      <find>laobaninfo</find>
+      <find>keyup</find>
+      <find>animation</find>
+      <find>match</find>
+      <find>rules</find>
+      <find>loader</find>
+      <find>loaders</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>user</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\components\header-selecter\images</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/redux_demo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/redux/store.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.less.css" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.less" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.css" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/login/login.css" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/bin/www" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/package.json" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/routes/users.js" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/test.js" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/db/db_test.js" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/db/models.js" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/app.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/api/ajax.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/index.css" />
+        <option value="$PROJECT_DIR$/../SuperMall/supermall/src/components/common/scroll/Scroll.vue" />
+        <option value="$PROJECT_DIR$/ggzhiping-server/routes/index.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/notfound/notfound.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/header-selecter/header-selecter.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/dashen/dashen.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/laoban/laoban.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/test/socketio.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/test/socketio_test.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/redux/action-types.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/api/index.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/socketio/server_socket.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/redux/actions.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/utils/index.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/redux/reducers.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/user-list/user-list.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/test.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/message/message.jsx" />
+        <option value="$PROJECT_DIR$/ant_demo/node_modules/webpack/package.json" />
+        <option value="$PROJECT_DIR$/ant_demo/config-overrides.js" />
+        <option value="$PROJECT_DIR$/ant_demo/src/App.jsx" />
+        <option value="$PROJECT_DIR$/ant_demo/src/index.js" />
+        <option value="$PROJECT_DIR$/ant_demo/src/index.css" />
+        <option value="$PROJECT_DIR$/ant_demo/config/webpack.config.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/config-overrides.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/index.js" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/package.json" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/main/main.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/register/register.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/login/login.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/laoban-info/laoban-info.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/dashen-info/dashen-info.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/chat/chat.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/assets/css/index.css" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/nav-footer.jsx" />
+        <option value="$PROJECT_DIR$/ggzhiping_learn/src/containers/personal/personal.jsx" />
+        <option value="$PROJECT_DIR$/redux_demo/src3.0_react_redux/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="935" />
+    <option name="y" value="35" />
+    <option name="width" value="980" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="redux_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="redux_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src1.0_react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="redux_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src1.0_react" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="redux_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src3.0_react_redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="redux_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src3.0_react_redux" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="redux_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src3.0_react_redux" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ggzhiping_learn/src/containers/message" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\containers\message" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\components" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\components\header-selecter\images" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\components\logo" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\assets" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\containers\register" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\containers\main" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ggzhiping_learn\src\containers\login" />
+      <recent name="C:\Users\Jaber\WebstormProjects\reactlearn\ant_demo\src\components\menu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a10c2feb-daab-4697-8f5f-8909e4000625" name="Default Changelist" comment="" />
+      <created>1574941113041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574941113041</updated>
+      <workItem from="1574941114667" duration="8735000" />
+      <workItem from="1575007116865" duration="8264000" />
+      <workItem from="1575032492402" duration="2469000" />
+      <workItem from="1575074791143" duration="13035000" />
+      <workItem from="1575098230390" duration="5513000" />
+      <workItem from="1575164594068" duration="2589000" />
+      <workItem from="1575250858454" duration="4162000" />
+      <workItem from="1575255086308" duration="16047000" />
+      <workItem from="1575293038209" duration="3116000" />
+      <workItem from="1575336091389" duration="1699000" />
+      <workItem from="1575355461745" duration="7782000" />
+      <workItem from="1575376057583" duration="6747000" />
+      <workItem from="1575422286152" duration="15808000" />
+      <workItem from="1575462288291" duration="6740000" />
+      <workItem from="1575507715665" duration="11314000" />
+      <workItem from="1575529925166" duration="3460000" />
+      <workItem from="1575533820184" duration="6727000" />
+      <workItem from="1575592359758" duration="19362000" />
+      <workItem from="1575678932834" duration="23328000" />
+      <workItem from="1575854777765" duration="17353000" />
+      <workItem from="1575893683876" duration="6548000" />
+      <workItem from="1575941914943" duration="19992000" />
+      <workItem from="1575980902494" duration="5275000" />
+      <workItem from="1576026809646" duration="4522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="220587000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985591" visible="true" weight="0.16309012" />
+      <window_info id="Structure" order="1" sideWeight="0.50144094" side_tool="true" weight="0.16309012" />
+      <window_info id="Favorites" order="2" sideWeight="0.50144094" side_tool="true" weight="0.16309012" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32747933" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.224581" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" visible="true" weight="0.14967811" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19909729" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32849163" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22623967" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" visible="true" weight="0.14092277" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>import {Route, Switch, Redirect} from 'react-router-dom'</expression-string>
+        <language-id>JSX Harmony</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/api/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/components/header-selecter/header-selecter.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/utils/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_manage/src_todoList/components/comment-add/commentAdd.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_manage/src2.0_comment/components/comment-add/commentAdd.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_manage/src1.0_comment/components/comment-add/commentAdd.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+          <folding>
+            <element signature="e#37#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/public/logo192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/components/logo/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="160" column="30" selection-start-line="160" selection-start-column="30" selection-end-line="160" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/components/user-list/user-list.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#17#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/message/message-1.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/node_modules/webpack/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="40" selection-start-line="11" selection-start-column="13" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/message/message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="82" column="88" selection-start-line="82" selection-start-column="88" selection-end-line="82" selection-end-column="88" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#18#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/config/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="427" column="15" selection-start-line="427" selection-start-column="15" selection-end-line="427" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/config/webpackDevServer.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant_demo/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping-server/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_manage/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/laoban-info/laoban-info.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="68" column="109" selection-start-line="68" selection-start-column="109" selection-end-line="68" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/dashen-info/dashen-info.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="67" column="109" selection-start-line="67" selection-start-column="109" selection-end-line="67" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/components/nav-footer/nav-footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/register/register.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="57" column="42" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/login/login.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="48" column="42" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/main/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2323">
+          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/laoban/laoban.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#15#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/chat/chat.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="111" column="48" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#16#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/assets/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src2.0_redux/components/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-909">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#99#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src2.0_redux/redux/action-types.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src2.0_redux/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ggzhiping_learn/src/containers/personal/personal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#19#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src2.0_redux/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/redux/action-types.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src1.0_react/components/app.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_demo/src3.0_react_redux/components/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
